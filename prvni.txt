@@ -4,4 +4,4 @@ yxc
 4
 paty radek
 pes 
-dalsi radek pro branching
+dalsi radek pro branching + oprava
