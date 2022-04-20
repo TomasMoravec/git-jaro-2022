@@ -7,3 +7,4 @@ dalsi radek pro branching + oprava
 commit pokus jedna
 commit pokus dva
 2415
+posledni radek 
