@@ -1,4 +1,4 @@
-prvni radek kodu
+prvni radek commit
 druhavetev
 4
 paty radek
